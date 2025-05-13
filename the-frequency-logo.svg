@@ -1,0 +1,18 @@
+<svg id="Component_2_1" data-name="Component 2 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1292" height="316" viewBox="0 0 1292 316">
+  <defs>
+    <filter id="frequency-white" x="25" y="78.583" width="200" height="185.833" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <text id="the_frequency" data-name="the frequency" transform="translate(328 225)" fill="#fff" font-size="260" font-family="WendyLPStd-Bold, Wendy LP Std" font-weight="700"><tspan x="0" y="0">the frequency</tspan></text>
+  <g id="Frequency_Logo" data-name="Frequency Logo" transform="translate(-315 -382)">
+    <rect id="Rectangle_36" data-name="Rectangle 36" width="250" height="250" rx="60" transform="translate(315 419)" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 315, 382)" filter="url(#frequency-white)">
+      <path id="frequency-white-2" data-name="frequency-white" d="M176.417,66.667h-7.583a22.75,22.75,0,0,0-22.75,22.75V119.75a7.583,7.583,0,0,1-15.167,0v-91a22.75,22.75,0,0,0-45.5,0V150.083a7.583,7.583,0,1,1-15.167,0v-91a22.75,22.75,0,1,0-45.5,0V89.417A7.583,7.583,0,0,1,17.167,97H9.583a7.583,7.583,0,1,0,0,15.167h7.583a22.75,22.75,0,0,0,22.75-22.75V59.083a7.583,7.583,0,1,1,15.167,0v91a22.75,22.75,0,0,0,45.5,0V28.75a7.583,7.583,0,1,1,15.167,0v91a22.75,22.75,0,0,0,45.5,0V89.417a7.583,7.583,0,0,1,7.583-7.583h7.583a7.583,7.583,0,1,0,0-15.167Z" transform="translate(32 72.58)" fill="#4920ff"/>
+    </g>
+  </g>
+</svg>
